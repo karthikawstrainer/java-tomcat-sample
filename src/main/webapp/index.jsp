@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello batch! CICD is awesome,hope Jenkins Training is good </h2>
+<h2>Hello batch! wow! CICD pipeline in flow end to end using Jenkins</h2>
 </body>
 </html>
